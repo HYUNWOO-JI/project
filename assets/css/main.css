@@ -4,7 +4,7 @@ section {width: 100%;height: 900px;}
 
 /* section #cnt1 */
 #cnt1 {position: relative; width: 100%; height: 100%; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
-#cnt1 #mainVideo {/* width: auto; height: auto;  */min-width: 100%; max-width: 100%;}
+#cnt1 #mainVideo {/* width: auto; height: auto;  */min-width: 100%; max-width: 100%; vertical-align: top;}
 #cnt1 .txt {position: relative; top:40px; opacity: 0;}
 #cnt1 a {font-family: "나눔고딕", "Nanum Gothic";position: absolute;bottom: 30%; left: calc(50% - 157.5px);width: 315px; height: 75px; line-height: 75px;text-align: center; border: 1px solid #fff; font-size: 25px;font-weight: 700;-webkit-transition: all 0.5s;-moz-transition: all 0.5s;-o-transition: all 0.5s;transition: all 0.5s;}
 #cnt1 a:hover, #cnt1 a:focus {background-color: hsl(32, 68%, 16%); border-color: hsl(32, 68%, 16%);}
