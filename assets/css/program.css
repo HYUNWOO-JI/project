@@ -20,11 +20,12 @@
 #cnt2 .area::after {clear: both; display: block; content: "";}
 #cnt2 .txt_area {padding-top: 50px;}
 #cnt2 h3.txt {position: relative; font-size: 25px; padding-bottom: 13px; text-align: center;}
-#cnt2 h3.txt::before, #cnt2 h1.txt::after {content: ""; position: absolute; top: 60px; width: 32%;height: 1px; background-color: #000;}
+#cnt2 h3.txt::before, #cnt2 h3.txt::after {content: ""; position: absolute; top: 60px; width: 32%;height: 1px; background-color: #000;}
 #cnt2 h3.txt::before {left: 0;}
 #cnt2 h3.txt::after {right: 0;}
 a.cnt2go {color: #000 !important;}
 #cnt2 p.subtxt {font-size: 16px;padding-bottom: 50px; text-align: center;}
+
 
 .program_list {display: flex; flex-direction: row; flex-wrap: nowrap; position: relative; top:40px; opacity: 0;}
 .program_list > li {float: left; width:350px; margin-top: 30px;}
