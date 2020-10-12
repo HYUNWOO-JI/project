@@ -128,7 +128,7 @@ a.cnt2go {color: #000 !important;}
 
 #cnt4 .description .hashtag{display: inline-block;margin-top: 40px;width: 100px;height: 50px;line-height: 44px;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;text-align: center;}
 #cnt4 .description .item {margin-top: 35px;padding-left: 42px;background-repeat:no-repeat;background-position:0 0;background-size:33px auto;line-height:33px;}
-#cnt4 h3 {font-size: 40px; line-height: 70px; font-family: "Noto Sans KR"; font-weight: bold; letter-spacing: 1.2px; color: #000;border-bottom: 2px solid #000;}
+#cnt4 h4 {font-size: 40px; line-height: 70px; font-family: "Noto Sans KR"; font-weight: bold; letter-spacing: 1.2px; color: #000;border-bottom: 2px solid #000;}
 #cnt4 P {font-family: "Noto Sans KR";}
 .description div .f_l {width: 350px;}
 .description div .f_r {width: 195px;}
@@ -178,7 +178,7 @@ a.cnt2go {color: #000 !important;}
 
     #cnt5 .description .hashtag{display: inline-block;margin-top: 40px;width: 100px;height: 50px;line-height: 44px;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;text-align: center;}
     #cnt5 .description .item {margin-top: 35px;padding-left: 42px;background-repeat:no-repeat;background-position:0 0;background-size:33px auto;line-height:33px;}
-    #cnt5 h3 {font-size: 40px; line-height: 70px; font-family: "Noto Sans KR"; font-weight: bold; letter-spacing: 1.2px; color: #000;border-bottom: 2px solid #000;}
+    #cnt5 h4 {font-size: 40px; line-height: 70px; font-family: "Noto Sans KR"; font-weight: bold; letter-spacing: 1.2px; color: #000;border-bottom: 2px solid #000;}
     #cnt5 p {font-family: "Noto Sans KR";}
     .description div .f_l {width: 350px;}
     .description div .f_r {width: 195px;}
